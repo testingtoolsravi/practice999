@@ -1,0 +1,25 @@
+/target/
+/test-output/
+/reports/
+test-output/testng-results.xml
+test-output/Suite/Tests on chrome.xml
+test-output/Suite/Tests on chrome.html
+test-output/old/Suite/testng.xml.html
+test-output/old/Suite/methods.html
+test-output/old/Suite/methods-alphabetical.html
+*.html
+*.log
+*.xml
+*.log
+src/test/resources/logs/Steplogs.log
+src/test/resources/suites/testng.xml
+test-output/emailable-report.html
+test-output/index.html
+test-output/junitreports/TEST-com.tab.af.web.runners.WebTestRunner.xml
+test-output/old/index.html
+test-output/old/Suite/methods-alphabetical.html
+test-output/old/Suite/methods.html
+test-output/old/Suite/testng.xml.html
+test-output/Suite/Tests on chrome.html
+test-output/Suite/Tests on chrome.xml
+test-output/testng-results.xml

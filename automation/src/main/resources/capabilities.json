@@ -1,0 +1,39 @@
+{
+	"chrome": {
+		"arguments": {
+			"arg1": "--disable-infobars",
+			"arg2": "--start-maximized",
+			"arg3": "--ignore-certificate-errors" 
+			 
+		},
+		"capabilities": {
+			"browserName": "chrome",
+			"os":"Windows"
+			
+		}
+		
+	},
+	"firefox": {
+		"arguments": {
+			 
+		},
+		"capabilities": {
+			"browserName": "firefox",
+			"os":"Windows",
+			"binary":"C:\\Users\\achaudhary\\AppData\\Local\\Mozilla Firefox\\firefox.exe"
+			
+		}
+	},
+	"ie": {
+		"arguments": {
+			 
+		},
+		"capabilities": {
+			"browserName": "internet explorer",
+			"os":"Windows"
+			
+		}
+	}
+
+
+}
